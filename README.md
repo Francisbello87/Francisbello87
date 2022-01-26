@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Frontend Development
 - 🌱 I’m currently learning: React 
 - 💞️ I’m looking to collaborate on: projects
-- 📫 How to reach me: bellofrancis87@gmail.com
+- 📫 How to reach me: bellofrancis91@gmail.com
 
 <!---
 Francisbello87/Francisbello87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
