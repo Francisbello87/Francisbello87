@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Francisbello87
 - 👀 I’m interested in: Frontend Development
-- 🌱 I’m currently learning: React 
 - 💞️ I’m looking to collaborate on: projects
 - 📫 How to reach me: bellofrancis91@gmail.com
 
