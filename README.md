@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Francisbello87
-- 👀 I’m interested in: Frontend Development
-- 💞️ I’m looking to collaborate on: projects
-- 📫 How to reach me: bellofrancis91@gmail.com
+- 👋 Hi, I’m Francis Bello
+- Front-end Developer @RefineStudio
+
 
 <!---
 Francisbello87/Francisbello87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
